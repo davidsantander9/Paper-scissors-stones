@@ -1,0 +1,40 @@
+.card{
+    background: #fafafa;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 30px auto;
+    width: 300px;
+    box-shadow: 5px 5px 8px  #ccc;
+}
+
+.player{
+    font-size: 4em;
+    text-align: center;
+    color: #0b8ee0;
+}
+.carousel{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.game_options{
+    text-align: center;
+}
+.game_options button{
+    padding: 10px 20px;
+    border-radius: 5px;
+    background: #0b8ee0;
+    color: #fff;
+    border: none;
+}
+
+.carousel-item{
+    color: #757575;
+    font-size: 3em;
+    padding: 10px;
+}
+
+.carousel-item:hover{
+    color: #0b8ee0;
+}
