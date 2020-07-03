@@ -35,6 +35,7 @@
     padding: 10px;
 }
 
-.carousel-item:hover{
+#carousel_player .carousel-item:hover{
     color: #0b8ee0;
+    cursor: pointer;
 }
